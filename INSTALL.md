@@ -11,6 +11,7 @@ Install
 ```
 # apt-get install build-essential
 # apt-get install git autoconf automake autogen libpcap-dev libtool pkg-config
+# apt-get install libjson-c-dev libmsgpack-dev libndpi-dev
 ```
 
 ### On Fedora/CentOS
